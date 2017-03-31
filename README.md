@@ -15,7 +15,7 @@ Current Volunteers:
 ## Moksha Main Website
 This directory will contain the dynamic website with Login, Registration and Event ID details.
 
-1. Divyanshu Kalra
+1. [Divyanshu Kalra](https://github.com/kalradivyanshu)
 2. [Kamakshi Suri](https://github.com/kamsuri)
 3. [Manraj Singh](https://github.com/ManrajGrover)
 4. [Mayank Badola](https://github.com/mbad0la)
